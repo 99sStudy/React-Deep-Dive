@@ -36,3 +36,11 @@
 | 허지호 |[02. 리액트 핵심 요소 깊게 살펴보기](https://nyove.tistory.com/83) |
 | 현세인 | [웹 페이지가 우리 눈 앞에 펼쳐지기까지: 브라우저 렌더링 과정 이해하기](https://www.notion.so/hyunlog/418095a3d623427c95769cb14e3ea609?pvs=4) |
 
+### 03 리액트 훅 깊게 살펴보기 (4월 11일) 
+| 이름 | 블로그 |
+| --- | --- |
+| 신준혁 |[React에 useId와 useTransition, useDeferredValue 있는 거 아니?](https://ydoag2003.tistory.com/466)|
+| 주장권 |[[React] ContextApi 최적화 해보기](https://velog.io/@tlsakch510/React-ContextApi-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)|
+| 허지호 |[03. 리액트 훅 깊게 살펴보기](https://nyove.tistory.com/84)|
+| 현세인 | [개발자 도구로 JS 메모리 누수 디버깅하기](https://hyunlog.notion.site/JS-6f4abe7761eb4747a275a0c7b16c2531) |
+
