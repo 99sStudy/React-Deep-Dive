@@ -44,3 +44,11 @@
 | 허지호 |[03. 리액트 훅 깊게 살펴보기](https://nyove.tistory.com/84)|
 | 현세인 | [개발자 도구로 JS 메모리 누수 디버깅하기](https://hyunlog.notion.site/JS-6f4abe7761eb4747a275a0c7b16c2531) |
 
+### 04 서버 사이드 렌더링 (4월 15일) 
+| 이름 | 블로그 |
+| --- | --- |
+| 신준혁 |[Babel, Tarser 그리고 SWC](https://ydoag2003.tistory.com/468#comment20521501)|
+| 주장권 |[[React Streaming SSR 알아보기] ContextApi 최적화 해보기](https://velog.io/@tlsakch510/React-Streaming-SSR-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)|
+| 허지호 ||
+| 현세인 | [RSC(React Server Component)는 어떻게 자바스크립트 번들 크기를 개선할 수 있을까?](https://hyunlog.notion.site/RSC-React-Server-Component-feat-Next-js-SSR-00d46d6d592a494b9e9c544b2786f3b3) |
+
