@@ -25,7 +25,7 @@
 | --- | --- |
 | 신준혁 |[객체 구조 분해 할당과 객체 전개 연산자가 번들링 크기를 크게 만든다고?](https://ydoag2003.tistory.com/464) |
 | 주장권 |[단일스레드 작동방식의 자바스크립트는 어떻게 비동기 작업들을 수행하지?](https://velog.io/@tlsakch510/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84)  |
-| 허지호 | [01. 리액트 개발을 위해 꼭 알아야 할 자바스크립트](https://nyove.tistory.com/80) |
+| 허지호 |[01. 리액트 개발을 위해 꼭 알아야 할 자바스크립트](https://nyove.tistory.com/80) |
 | 현세인 |[실행 컨텍스트와 클로저](https://hyunlog.notion.site/JavaScript-Execution-Context-ef6a11ae1ff14fa8b1a7538bebc71650?pvs=4), [useState의 동작 원리와 클로저](https://hyunlog.notion.site/JavaScript-useState-f2ec638d23f44c70a7a47088b1ca2ced?pvs=4) |
 
 ### 02 리액트 핵심 요소 깊게 살펴보기 (4월 8일) 
@@ -34,7 +34,7 @@
 | 신준혁 |[가상DOM과 파이버노드 Deep Dive](https://ydoag2003.tistory.com/465)|
 | 주장권 |[React Fiber 박살내기](https://velog.io/@tlsakch510/React-%EB%A0%8C%EB%8D%94%EB%A7%81) |
 | 허지호 |[02. 리액트 핵심 요소 깊게 살펴보기](https://nyove.tistory.com/83) |
-| 현세인 | [웹 페이지가 우리 눈 앞에 펼쳐지기까지: 브라우저 렌더링 과정 이해하기](https://www.notion.so/hyunlog/418095a3d623427c95769cb14e3ea609?pvs=4) |
+| 현세인 |[웹 페이지가 우리 눈 앞에 펼쳐지기까지: 브라우저 렌더링 과정 이해하기](https://www.notion.so/hyunlog/418095a3d623427c95769cb14e3ea609?pvs=4) |
 
 ### 03 리액트 훅 깊게 살펴보기 (4월 11일) 
 | 이름 | 블로그 |
@@ -42,13 +42,21 @@
 | 신준혁 |[React에 useId와 useTransition, useDeferredValue 있는 거 아니?](https://ydoag2003.tistory.com/466)|
 | 주장권 |[[React] ContextApi 최적화 해보기](https://velog.io/@tlsakch510/React-ContextApi-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)|
 | 허지호 |[03. 리액트 훅 깊게 살펴보기](https://nyove.tistory.com/84)|
-| 현세인 | [개발자 도구로 JS 메모리 누수 디버깅하기](https://hyunlog.notion.site/JS-6f4abe7761eb4747a275a0c7b16c2531) |
+| 현세인 |[개발자 도구로 JS 메모리 누수 디버깅하기](https://hyunlog.notion.site/JS-6f4abe7761eb4747a275a0c7b16c2531) |
 
 ### 04 서버 사이드 렌더링 (4월 15일) 
 | 이름 | 블로그 |
 | --- | --- |
 | 신준혁 |[Babel, Tarser 그리고 SWC](https://ydoag2003.tistory.com/468#comment20521501)|
 | 주장권 |[[React Streaming SSR 알아보기] ContextApi 최적화 해보기](https://velog.io/@tlsakch510/React-Streaming-SSR-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)|
-| 허지호 ||
-| 현세인 | [RSC(React Server Component)는 어떻게 자바스크립트 번들 크기를 개선할 수 있을까?](https://hyunlog.notion.site/RSC-React-Server-Component-feat-Next-js-SSR-00d46d6d592a494b9e9c544b2786f3b3) |
+| 허지호 |[04. 서버 사이드 렌더링](https://nyove.tistory.com/85)|
+| 현세인 |[RSC(React Server Component)는 어떻게 자바스크립트 번들 크기를 개선할 수 있을까?](https://hyunlog.notion.site/RSC-React-Server-Component-feat-Next-js-SSR-00d46d6d592a494b9e9c544b2786f3b3) |
+
+### 05 리액트와 상태 관리 라이브러리 (4월 18일) 
+| 이름 | 블로그 |
+| --- | --- |
+| 신준혁 |[React 상태 관리의 역사와 상태 관리 직접 구현하기](https://ydoag2003.tistory.com/469)|
+| 주장권 |[Zustand는 useSyncExternalStore훅 기반으로 되어있다는데 이 훅은 뭘까?](https://velog.io/@tlsakch510/useSyncExternalStore-%EB%A1%9C-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%EB%8C%80%EC%B2%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C)|
+| 허지호 |[05. 리액트와 상태 관리 라이브러리](https://nyove.tistory.com/87)|
+| 현세인 |[많은 리액트 상태 관리 라이브러리, 선택하기 어렵다면?](https://hyunlog.notion.site/aae3014e36484dcba59985e455cfaadf?pvs=4)|
 
