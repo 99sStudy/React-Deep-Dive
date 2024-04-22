@@ -56,7 +56,7 @@
 | 이름 | 블로그 |
 | --- | --- |
 | 신준혁 |[React 상태 관리의 역사와 상태 관리 직접 구현하기](https://ydoag2003.tistory.com/469)|
-| 주장권 |[React에서 상태들을 한번에 묶어서 렌더링을 시키는 기능](https://velog.io/@tlsakch510/useSyncExternalStore-%EB%A1%9C-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%EB%8C%80%EC%B2%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C)|
+| 주장권 |[React에서 상태들을 한번에 묶어서 렌더링을 시키는 기능](https://velog.io/@tlsakch510/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C-%EC%9E%90%EB%8F%99-%EB%B0%B0%EC%B9%98%EB%8A%94)|
 | 허지호 |[05. 리액트와 상태 관리 라이브러리](https://nyove.tistory.com/87)|
 | 현세인 |[많은 리액트 상태 관리 라이브러리, 선택하기 어렵다면?](https://hyunlog.notion.site/aae3014e36484dcba59985e455cfaadf?pvs=4)|
 
