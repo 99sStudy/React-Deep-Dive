@@ -66,5 +66,13 @@
 | 신준혁 |[React에서 이벤트는 뭐가 이리 달라?](https://ydoag2003.tistory.com/470)|
 | 주장권 |[Zustand는 useSyncExternalStore훅 기반으로 되어있다는데 이 훅은 뭘까?](https://velog.io/@tlsakch510/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C-%EC%9E%90%EB%8F%99-%EB%B0%B0%EC%B9%98%EB%8A%94)|
 | 허지호 |[10. 리액트 17과 18의 변경 사항 살펴보기](https://nyove.tistory.com/91)|
-| 현세인 |[]()|
+| 현세인 |[리액트 18: Concurrent가 리액트 렌더링을 어떻게 개선했을까?](https://hyunlog.notion.site/18-Concurrent-fd41ae03edd24ca995d91fcbead993bb)|
+
+### 11 Next.js 13과 리액트 18 (4월 25일) 
+| 이름 | 블로그 |
+| --- | --- |
+| 신준혁 |[NextJS app router를 사용하면서 생각해볼 것들](https://ydoag2003.tistory.com/471)|
+| 주장권 ||
+| 허지호 |[11. Next.js 13과 리액트 18](https://nyove.tistory.com/92)|
+| 현세인 |[리액트 18: Suspense는 SSR 환경을 어떻게 개선했을까?](https://hyunlog.notion.site/18-Suspense-SSR-88ef8ecfb0e44d768ec5cfaca3fede57)|
 
