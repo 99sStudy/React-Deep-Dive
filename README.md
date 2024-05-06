@@ -86,3 +86,11 @@
 | 허지호 |[11. Next.js 13과 리액트 18](https://nyove.tistory.com/92)|
 | 현세인 |[리액트 18: Suspense는 SSR 환경을 어떻게 개선했을까?](https://hyunlog.notion.site/18-Suspense-SSR-88ef8ecfb0e44d768ec5cfaca3fede57)|
 
+### 12 모든 웹 개발자가 관심을 가져야 할 핵심 웹 지표(5월 6일)
+| 이름 | 블로그 |
+| --- | --- |
+| 신준혁 |[lighthouse - 자바스크립트 줄이기](https://ydoag2003.tistory.com/474)|
+| 주장권 |[모던 리액트 딥다이브 12장 정리 - 모든 웹 개발자가 관심을 가져야 할 핵심 웹 지표](https://velog.io/@tlsakch510/%EB%AA%A8%EB%8D%98-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-12%EC%9E%A5-%EC%A0%95%EB%A6%AC-%EB%AA%A8%EB%93%A0-%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B4%80%EC%8B%AC%EC%9D%84-%EA%B0%80%EC%A0%B8%EC%95%BC-%ED%95%A0-%ED%95%B5%EC%8B%AC-%EC%9B%B9-%EC%A7%80%ED%91%9C)|
+| 허지호 ||
+| 현세인 ||
+
