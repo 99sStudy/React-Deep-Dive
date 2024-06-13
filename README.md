@@ -1,5 +1,5 @@
 # 🌐 Study to React 🌐
-<img src="https://github.com/99sStudy/React-Deep-Dive/assets/104545906/ff2029a4-5831-4138-bc88-0cc34c1f64d9" widtt="100" height="300" />
+<img src="https://github.com/99sStudy/React-Deep-Dive/assets/104545906/ff2029a4-5831-4138-bc88-0cc34c1f64d9" width="240" height="300" />
 </br>
 4명의 팀원으로 구성되어 모던 리액트 Deep Dive를 통하여 </br>
 리액트를 더 심도있게 공부하는 스터디입니다. </br>
